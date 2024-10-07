@@ -1,4 +1,5 @@
 Hey there! 👋
+
 I'm an undergraduate Computer Science student at the Athens University of Economics and Business, with a strong passion for coding and building innovative solutions 💡.
 
 I've been focusing on developing Java-based applications, exploring best practices and design patterns in the ecosystem. 
